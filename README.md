@@ -3,10 +3,15 @@ This exercise is intentionally left open ended.  Within you will find a skeleton
 
 # Requirements
  - API listing all customers
+	GET: api/customers
  - API retrieving a customer
+	GET: api/customers/{id}
  - API adding a customer 
+	POST: api/customers
  - API updating a customer
+	PUT: api/customers/{id}
  - API deleting a customer
+	DELETE: api/customers/{id}
  - API should preserve state
  - Unit tests
  - Use .NET Core 3.1 or NET 5+
