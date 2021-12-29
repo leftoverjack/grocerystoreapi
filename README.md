@@ -21,3 +21,11 @@ Implement the above listed requirements in a manner you see fitting. Demonstrate
 
 # Publish
 Send us a public link to your solution.  If you don't want to make it public, feel free to just send us a ZIP file.
+
+
+
+# Extras
+- Coding Challenge Controller
+	POST: api/codingchallenge
+
+	Takes a sorted array of integers between 1 and 99 inclusive and returns a string containing all the integers that are not present in the input array
